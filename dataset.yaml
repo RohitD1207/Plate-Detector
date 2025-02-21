@@ -1,0 +1,5 @@
+path: C:/Users/jacqu/OneDrive/Documents/Insane deadlines/CNN/data/split_dataset  # Change this to your dataset path
+train: images/train
+val: images/val
+names:
+  0: license_plate
