@@ -8,7 +8,7 @@ import os
 app = Flask(__name__)
 
 # Load YOLO model
-model = YOLO('models/license_plate_detector.pt')
+model = YOLO('CNN\\models\license_plate_detector.pt')
 
 # Define directories
 UPLOAD_FOLDER = 'uploads'
